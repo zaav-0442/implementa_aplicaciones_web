@@ -71,7 +71,3 @@
 *   9.3 Presentación y Evaluación del Proyecto
 
 ---
-
-¡Espero que este índice te sea útil! ¿Hay alguna sección que te gustaría que expandiera o algún tema específico que te interese incluir?
-
-Aquí te dejo una imagen que representa visualmente el ciclo de vida del desarrollo web: 
